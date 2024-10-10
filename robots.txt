@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olawdend.github.io/sitemap.html.gz
+Sitemap: https://olawdend.github.io/app/sitemap.html.gz
+Sitemap: https://olawdend.github.io/assets/sitemap.html.gz
+Sitemap: https://olawdend.github.io/css/sitemap.html.gz
+Sitemap: https://olawdend.github.io/includes/sitemap.html.gz
+Sitemap: https://olawdend.github.io/item/sitemap.html.gz
+Sitemap: https://olawdend.github.io/src/sitemap.html.gz
